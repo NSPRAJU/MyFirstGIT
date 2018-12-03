@@ -1,4 +1,4 @@
-Demonstrating GIT Abilities
+Demonstrating GIT Capabilities
 
 Todo: Need to add branching strategy
 
